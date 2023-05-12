@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HerenyonSandeman
+- 👀 I’m interested in every kind of tools that can help streamline an academic workflow
+- 🌱 I’m currently learning how to use and integrate apps like Obsidian and Zotero in order to maximize efficiency in my academic work and research activities
